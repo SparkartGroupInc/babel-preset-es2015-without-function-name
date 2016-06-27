@@ -1,7 +1,7 @@
 {
-  "name": "babel-preset-es2015-without-function-name",
+  "name": "babel-preset-es2015-no-function-name-loose",
   "version": "6.5.0",
-  "description": "Babel preset for all es2015 plugins without transform-es2015-function-name.",
+  "description": "Babel preset for all es2015 plugins in loose mode without transform-es2015-function-name.",
   "author": "DontRelaX <dontrelaxman@gmail.com>",
   "homepage": "https://babeljs.io/",
   "license": "MIT",
